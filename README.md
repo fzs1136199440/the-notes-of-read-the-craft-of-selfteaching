@@ -1,1 +1,1 @@
-# the-notes-of-read-the-craft-of-selfteaching
+# the-notes-from-read-the-craft-of-selfteaching
